@@ -6,8 +6,6 @@ Riot Games server status checker for valorant connected to discord via discord.p
 
 **Feel free to make a PR :D**
 
-To install:
-
 ## Screenshots
 ![when no maintenance/incidents](https://cdn.discordapp.com/attachments/746327425759182908/777590931934412830/unknown.png)
 ![when maintenance/incidents](https://cdn.discordapp.com/attachments/746327425759182908/777591198482825236/unknown.png)
