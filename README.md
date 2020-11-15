@@ -11,9 +11,7 @@ Riot Games server status checker for valorant connected to discord via discord.p
 ![when maintenance/incidents](https://cdn.discordapp.com/attachments/746327425759182908/777591198482825236/unknown.png)
 
 ## Setup
-1. Open a terminal in a folder or cd to a folder you want to clone the rep to
-2. Run the Code below in the terminal:
-
+- Run the Code below in a terminal:
 ```html
 git clone https://github.com/D3CRYPT360/valorant-server_status_checker-discord_bot.git
 ```
