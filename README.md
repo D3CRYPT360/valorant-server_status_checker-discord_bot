@@ -1,6 +1,6 @@
 # valorant server status checker
 
-Riot Games Status checker for valorant connected to discord via discord.py
+Riot Games server status checker for valorant connected to discord via discord.py
 
 *This isn't the most efficient nor the best way to do this. But if it works it works..*
 
