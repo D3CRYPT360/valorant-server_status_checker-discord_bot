@@ -17,7 +17,7 @@ To install:
 2. Run the Code below in the terminal:
 
 ```html
-git clone https://github.com/D3CRYPT360/valorant-server_status_checker-discord_bot.git 
+git clone https://github.com/D3CRYPT360/valorant-server_status_checker-discord_bot.git
 ```
 
 ## Status
