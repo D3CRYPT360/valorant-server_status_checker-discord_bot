@@ -2,8 +2,17 @@
 
 Riot Games Status checker for valorant connected to discord via discord.py
 
+<<<<<<< HEAD
 ## Screenshots
 
+=======
+
+**Feel free to make a PR :D**
+
+To install:
+
+## Screenshots
+>>>>>>> 1faecc8342f2795e68de7da523b380db8f332a77
 ![when no maintenance/incidents](https://cdn.discordapp.com/attachments/746327425759182908/777797415486357554/unknown.png)
 ![when maintenance/incidents](https://cdn.discordapp.com/attachments/746327425759182908/777797140956708894/unknown.png)
 
@@ -19,7 +28,11 @@ git clone https://github.com/D3CRYPT360/valorant-server_status_checker-discord_b
 ```html
 pip install -r requirements.txt
 ```
+<<<<<<< HEAD
 4. Open `status.py` using a text editor or an IDE
+=======
+4. Open `status.py`
+>>>>>>> 1faecc8342f2795e68de7da523b380db8f332a77
 5. Replace `TOKEN = YOUR TOKEN` with your own token
 6. Replace `YOUR PREFIX` with your own prefix
 
@@ -32,7 +45,11 @@ pip install -r requirements.txt
 | ------------------------|:-------------------------------:|----------:|
 | {prefix}status {region} | Returns the status of the server| !status na|
 
+<<<<<<< HEAD
 **All regions are converted to lowercase so if you type Na or LaTAm it will be accepted**
+=======
+** All regions are converted to lowercase so if you type Na or LaTAm it will be accepted **
+>>>>>>> 1faecc8342f2795e68de7da523b380db8f332a77
 
 ## Status
 Project is: __on hold__, since i am not focusing on this project at the moment, feel free to make PR's to improve the code if needed.
