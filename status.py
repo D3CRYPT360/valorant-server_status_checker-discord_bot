@@ -62,6 +62,5 @@ async def status(ctx, region):
     
     elif r.status_code != 200:
         await ctx.send(f"{region} server status not found...")
-    
 
 bot.run(TOKEN)
