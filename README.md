@@ -24,6 +24,7 @@ pip install -r requirements.txt
 6. Replace `YOUR PREFIX` with your own prefix
 
 ## Requirements
+- python >=3.6
 - discord.py==1.5.1
 - requests==2.24.0
 
