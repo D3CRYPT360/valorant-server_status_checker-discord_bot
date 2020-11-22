@@ -20,7 +20,7 @@ async def status(ctx, region):
     if r.status_code == 200:
         json_data = r.json()
                 
-        if (json_data['incidents']) and (json_data['maintenances']) == []:# If there is no incidents/maintenance
+        if (json_data['incidents']) == [] and (json_data['maintenances']) == []:# If there is no incidents/maintenance
             await ctx.send ("No recent issues or events reported")
                   
         
