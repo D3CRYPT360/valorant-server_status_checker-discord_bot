@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Requirements
 - python >=3.6
-- discord.py==1.5.1
-- requests==2.24.0
+- discord.py>=1.5.1
+- requests
 
 ## Commands
 | Commands                | Description                     |Example    |
@@ -39,4 +39,4 @@ pip install -r requirements.txt
 Project is: __on hold__, since i am not focusing on this project at the moment, feel free to make PR's to improve the code if needed.
 
 ## Contact
-Created by DΞ𝕮ЯYPƬ#5020 - feel free to contact me on discord!
+Created by DΞ𝕮ЯYPƬ#9998 - feel free to contact me on discord!
