@@ -11,17 +11,18 @@ Valorant Server status checker for discord. Made with discord.py
 1. Open a terminal in a folder or cd to a folder you want to clone the repo to
 2. Run the Code below in the terminal:
 
-```html
+```py
 git clone https://github.com/D3CRYPT360/valorant-server_status_checker-discord_bot.git
 ```
 
 3. Once you are in the folder open a terminal and cd to the folder and install the requirements using:
-```html
+```py
 pip install -r requirements.txt
 ```
-4. Open `status.py` using a text editor or an IDE
-5. Replace `TOKEN = YOUR TOKEN` with your own token
-6. Replace `YOUR PREFIX` with your own prefix
+4. If you do not have a bot make one from [dev portal](https://discord.com/developers/applications)
+5. Open `status.py` using a text editor or an IDE
+6. Replace `TOKEN = YOUR TOKEN` with your own token
+7. Replace `YOUR PREFIX` with your own prefix
 
 ## Requirements
 - python >=3.6
