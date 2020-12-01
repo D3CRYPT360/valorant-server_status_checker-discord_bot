@@ -20,11 +20,11 @@ async def status(ctx, region):
     if r.status_code == 200:
         json_data = r.json()
                 
-        if (json_data['incidents']) == [] and (json_data['maintenances']) == []:# If there is no incidents/maintenance
+        if (json_data['incidents']) == [] and (json_data['maintenances']) == []:
             await ctx.send ("No recent issues or events reported")
                   
         
-        elif (json_data['maintenances'])!= []:# If the issue is related to a maintenance
+        elif (json_data['maintenances'])!= []:
             embed = discord.Embed(
                 colour = discord.Colour.dark_gold(),
                 title=(json_data["maintenances"][0]['titles'][0]['content'])
@@ -42,7 +42,7 @@ async def status(ctx, region):
             embed.set_thumbnail(url=thumbnail)
             await ctx.send(embed=embed)
                 
-        if (json_data['maintenances']) and (json_data['incidents']) != []: # If there is both a maintenance and an incident  
+        if (json_data['maintenances']) and (json_data['incidents']) != []:
             embed1 = discord.Embed(
                 colour = discord.Colour.dark_gold(),
                 title=(json_data["maintenances"][0]['titles'][0]['content'])
