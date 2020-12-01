@@ -33,7 +33,7 @@ async def status(ctx, region):
             embed.set_thumbnail(url=thumbnail)
             await ctx.send(embed=embed)
             
-        elif (json_data['incidents']) != []:# If the issue is related to an incident
+        elif (json_data['incidents']) != []:
             embed = discord.Embed(
                 colour = discord.Colour.dark_gold(),
                 title=(json_data["incidents"][0]['titles'][0]['content'])
