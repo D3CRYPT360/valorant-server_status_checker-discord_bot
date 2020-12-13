@@ -40,4 +40,4 @@ pip install -r requirements.txt
 Project is: __on hold__, since i am not focusing on this project at the moment, feel free to make PR's to improve the code if needed.
 
 ## Contact
-Created by DΞ𝕮ЯYPƬ#9998 - feel free to contact me on discord!
+Created by DΞ𝕮ЯYPƬ#9779 - feel free to contact me on discord!
