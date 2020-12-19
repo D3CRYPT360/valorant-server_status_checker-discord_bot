@@ -1,4 +1,5 @@
 # valorant server status checker
+PyPi moduel coming soon
 
 Valorant Server status checker for discord. Made with discord.py
 
