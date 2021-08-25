@@ -5,4 +5,4 @@ Feel free to use this and modify it as you like :)
 
 
 ## Contact
-Created by DΞ𝕮ЯYPƬ#9779 - feel free to contact me on discord!
+Created by DΞCRYPT#9779 - feel free to contact me on discord!
